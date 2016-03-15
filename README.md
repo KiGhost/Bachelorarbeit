@@ -1,7 +1,7 @@
 # Bachelorarbeit
 
 Hallo Christof,
-anbei das gesamte Projekt von mir und Matthias, damit du es in Unreal 4.9.2 kompilieren kannst.
+anbei alle cpps/h des Projekest (von mir und Matthias).
 
 Die folgenden Klassen gehören zu der KI und sind nur von mir erstellt und bearbeitet worden:
 
